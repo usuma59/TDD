@@ -1,0 +1,11 @@
+name.isUppercase
+.toUpperCase
+
+Array.isArray
+
+name.join(" and ")
+
+slice -> 0-length-1 join ,
+and
+
+name.filter
